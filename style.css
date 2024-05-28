@@ -19,18 +19,18 @@ body {
     display: block;
     border-radius: 100%;
     border: 5px white solid;
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .i1 {
-    width: 150px;
-    height: 150px;
+    width: 70px;
+    height: 70px;
     float: left;
-    margin-left: 35px;  
-    margin-top: 25px;
+    margin-left: 17px;  
+    margin-top: 12px;
     margin-right: 0px;
     border-radius: 15%;
 }
@@ -38,47 +38,47 @@ body {
 .p1 {
     color: white;
     text-align: center;
-    font-size: 60px;
+    font-size: 30px;
     margin-bottom: 0px;
 }
 
 .bnt1 {
-    width: 600px;
-    height: 200px;
+    width: 300px;
+    height: 100px;
     background: linear-gradient(45deg, #1e275b, rgb(74, 24, 22));
     border-radius: 5%;
     border: 5px white solid;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .bnt2 {
-    width: 600px;
-    height: 200px;
+    width: 300px;
+    height: 100px;
     background: linear-gradient(120deg, #8e8e8e, rgb(80, 45, 43));
     border-radius: 5%;
     border: 5px white solid;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .bnt3 {
-    width: 600px;
-    height: 200px;
+    width: 300px;
+    height: 100px;
     background: linear-gradient(90deg, rgb(59, 19, 16), #ffbbbb);
     border-radius: 5%;
     border: 5px white solid;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .bnt4 {
-    width: 600px;
-    height: 200px;
+    width: 300px;
+    height: 100px;
     background: linear-gradient(60deg, rgb(20, 16, 59), #bbecff);
     border-radius: 5%;
     border: 5px white solid;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 
@@ -89,6 +89,6 @@ a {
 .p2 {
     color: white;
     text-align: center;
-    font-size: 20px;
+    font-size: 10px;
     margin-top: 0px;
 }
