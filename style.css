@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+body {
+    background: darkslateblue;
+}
+    
+
+.box {
+    width: auto;
+    height: auto;
+    background: linear-gradient(45deg, rgb(67, 14, 14), rgb(203, 60, 203));
+    border-radius: 2%;
+    border: 5px white solid;
+    margin: 0 auto;
+    font-family: "Archivo Black", sans-serif;
+}
+
+.i {
+    display: block;
+    border-radius: 100%;
+    border: 5px white solid;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.i1 {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 35px;  
+    margin-top: 25px;
+    margin-right: 0px;
+    border-radius: 15%;
+}
+
+.p1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+.bnt1 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(45deg, #1e275b, rgb(74, 24, 22));
+    border-radius: 5%;
+    border: 5px white solid;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.bnt2 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(120deg, #8e8e8e, rgb(80, 45, 43));
+    border-radius: 5%;
+    border: 5px white solid;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.bnt3 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(90deg, rgb(59, 19, 16), #ffbbbb);
+    border-radius: 5%;
+    border: 5px white solid;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.bnt4 {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(60deg, rgb(20, 16, 59), #bbecff);
+    border-radius: 5%;
+    border: 5px white solid;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.p2 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+}
